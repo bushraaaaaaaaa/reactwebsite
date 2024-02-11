@@ -1,0 +1,22 @@
+body{
+  background-color: 		#F5F5F5;
+}
+.navbar{
+  background-color: #FFF600 !important;
+}
+.head{
+  background-color: rgba(255, 255, 255, 0.795) !important ;
+  border: 1px solid #ccc;
+}
+input{
+  border: none;
+  width:65%;
+}
+.cont1
+{
+background-color: white;
+padding:50px;
+}
+.head{
+  background-color: #F5F5F5 !important;
+}
